@@ -21,7 +21,7 @@ GH = f"https://github.com/{REPO}"
 RAW = f"https://raw.githubusercontent.com/{REPO}/main"
 YT = "rsjhXh7OSHg"            # video trang chính
 YT_GLOBAL = "mOyUwLZCdCM"     # video bản Global — chỉ trang /global/ (hoặc ?ban=global)
-FB = "https://www.facebook.com/danghuuson.182/"
+FB = "https://www.facebook.com/danghuuson.vn/"
 esc = html.escape
 
 voices = json.loads((ROOT / "webapp/static/previews/voices.json").read_text("utf-8"))

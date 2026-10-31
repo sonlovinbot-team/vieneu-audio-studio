@@ -7,7 +7,7 @@ Biến văn bản tiếng Việt thành giọng nói tự nhiên, **clone giọn
 > [!TIP]
 > 🌐 **[Xem trang giới thiệu](https://app.danghuuson.com/vieneu-audio-studio/)**: xem video và **nghe thử 25 giọng ngay trên trang**, không cần tải gì.
 
-**Phát triển bởi [Đặng Hữu Sơn](https://www.facebook.com/danghuuson.182/) — CEO & Co-Founder LovinBot AI**, dựa trên model AI mã nguồn mở [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) của Phạm Nguyễn Ngọc Bảo.
+**Phát triển bởi [Đặng Hữu Sơn](https://www.facebook.com/danghuuson.vn/) — CEO & Co-Founder LovinBot AI**, dựa trên model AI mã nguồn mở [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) của Phạm Nguyễn Ngọc Bảo.
 
 ## 🎬 Video giới thiệu
 
@@ -149,6 +149,6 @@ Mỗi giọng đọc cùng một câu mẫu: *"Chào bạn, đây là giọng đ
 ## 🙏 Ghi nhận
 
 - 🌐 Các phần mềm, game 3D và tài liệu AI miễn phí khác: **[app.danghuuson.com](https://app.danghuuson.com)**
-- Phần mềm AI Audio Studio (giao diện, tính năng, bộ cài): **Đặng Hữu Sơn** — [Facebook](https://www.facebook.com/danghuuson.182/).
+- Phần mềm AI Audio Studio (giao diện, tính năng, bộ cài): **Đặng Hữu Sơn** — [Facebook](https://www.facebook.com/danghuuson.vn/).
 - Chế độ Đa ngôn ngữ (bản Global): model **OmniVoice** (k2-fsa, Apache-2.0). *Built with Higgs Materials licensed from Boson AI USA, Inc., Copyright Boson AI USA, Inc., All Rights Reserved and Meta Llama 3 licensed under the Meta Llama 3 Community License, Copyright Meta Platforms, Inc., All Rights Reserved.*
 - Model AI và SDK giọng nói: **[VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS)** — thiết kế và huấn luyện bởi **Phạm Nguyễn Ngọc Bảo**, giấy phép Apache 2.0. Vui lòng giữ nguyên phần ghi nhận tác giả khi phân phối lại.
